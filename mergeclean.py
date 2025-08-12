@@ -4,32 +4,23 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewAll.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/JapanTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PlexTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PlutoTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/SamsungTVPlus.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TubiTV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DrewLiveVOD.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Drew247TV.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TVPass.m3u",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Radio.m3u8",
-    "http://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PPVLand.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamEast.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/FSTV24.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PBSKids.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Tims247.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/TheTVApp.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Roku.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/StreamedSU.m3u8"
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/plex_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/plutotv_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/roku_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/samsungtvplus_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/stirr_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/tubi_all.m3u",
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",
+    "https://www.apsattv.com/localnow.m3u",
+    "https://www.apsattv.com/lg.m3u",
+    "https://www.apsattv.com/tclplus.m3u",
+    "https://www.apsattv.com/tcl.m3u",
+    "https://www.apsattv.com/tablo.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
 EPG_URL = "https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-OUTPUT_FILE = "MergedCleanPlaylist.m3u8"
+OUTPUT_FILE = "MergedPlaylist-all.m3u8"
 REMOVED_FILE = "Removed_NSFW.m3u8"
 
 def fetch_playlist(url):

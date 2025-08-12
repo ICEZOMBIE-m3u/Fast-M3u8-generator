@@ -15,8 +15,7 @@ playlist_urls = [
     "https://www.apsattv.com/lg.m3u",
     "https://www.apsattv.com/tclplus.m3u",
     "https://www.apsattv.com/tcl.m3u",
-    "https://www.apsattv.com/tablo.m3u",
-]
+    "https://www.apsattv.com/tablo.m3u"]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
 EPG_URL = "https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"

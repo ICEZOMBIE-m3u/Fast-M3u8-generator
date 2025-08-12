@@ -10,14 +10,8 @@ playlist_urls = [
     "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/samsungtvplus_all.m3u",
     "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/stirr_all.m3u",
     "https://raw.githubusercontent.com/ICEZOMBIE-m3u/Fast-M3u8-generator/refs/heads/Zombietv/playlists/tubi_all.m3u",
-    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",
-    "https://www.apsattv.com/localnow.m3u",
-    "https://www.apsattv.com/lg.m3u",
-    "https://www.apsattv.com/tclplus.m3u",
-    "https://www.apsattv.com/tcl.m3u",
-    "https://www.apsattv.com/tablo.m3u"]
+    "https://raw.githubusercontent.com/ICEZOMBIE-m3u/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u",]
 
-UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
 EPG_URL = "https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 OUTPUT_FILE = "MergedPlaylist-all.m3u8"
 REMOVED_FILE = "Removed_NSFW.m3u8"

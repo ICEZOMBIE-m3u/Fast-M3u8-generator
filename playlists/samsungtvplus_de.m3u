@@ -239,6 +239,8 @@ https://jmp2.uk/sam-DE1400003DP.m3u8
 https://jmp2.uk/sam-DEAJ2900001NG.m3u8
 #EXTINF:-1 channel-id="DEAJ70000561" tvg-id="DEAJ70000561" tvg-chno="4803" tvg-name="SpongeBob Schwammkopf" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20250107T024009SQUARE.png" group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/sam-DEAJ70000561.m3u8
+#EXTINF:-1 channel-id="DE2000005J6" tvg-id="DE2000005J6" tvg-chno="4239" tvg-name="Spooks (MI-5)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000005J6_20250811T172311SQUARE.png" group-title="Serien",Spooks (MI-5)
+https://jmp2.uk/sam-DE2000005J6.m3u8
 #EXTINF:-1 channel-id="DEBD2300001ND" tvg-id="DEBD2300001ND" tvg-chno="4658" tvg-name="Sport 1 Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2300001ND_20250107T024414SQUARE.png" group-title="Sport",Sport 1 Motor
 https://jmp2.uk/sam-DEBD2300001ND.m3u8
 #EXTINF:-1 channel-id="DEAJ0500429A" tvg-id="DEAJ0500429A" tvg-chno="4611" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250527T015726SQUARE.png" group-title="Sport",Sportdigital Free

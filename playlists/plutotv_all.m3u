@@ -429,6 +429,8 @@ https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
 https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 #EXTINF:-1 channel-id="62fb9844db5a4a0007ebc2a3-ca" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-chno="522" tvg-name="Beyond History" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Canada",Beyond History
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
+#EXTINF:-1 channel-id="687ff00ff6bc08130f16ab81-us" tvg-id="687ff00ff6bc08130f16ab81" tvg-chno="2435" tvg-name="Beyond the Gates" tvg-logo="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png" group-title="United States",Beyond the Gates
+https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 channel-id="666cc97764aca60008c31cd7-us" tvg-id="666cc97764aca60008c31cd7" tvg-chno="1855" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/666cc97764aca60008c31cd7/colorLogoPNG.png" group-title="United States",Big Brother
 https://jmp2.uk/plu-666cc97764aca60008c31cd7.m3u8
 #EXTINF:-1 channel-id="6661f11a41af6400080e90d8-us" tvg-id="6661f11a41af6400080e90d8" tvg-chno="1940" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="United States",Big Brother
@@ -4269,6 +4271,8 @@ https://jmp2.uk/plu-6643b8c42eafd40008daab8b.m3u8
 https://jmp2.uk/plu-65dded9a0d456100081417ae.m3u8
 #EXTINF:-1 channel-id="67d984c989788ef7f058b084-de" tvg-id="67d984c989788ef7f058b084" tvg-chno="91" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Germany",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
+#EXTINF:-1 channel-id="68757c60552299d2b080eab6-us" tvg-id="68757c60552299d2b080eab6" tvg-chno="1876" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png" group-title="United States",Project Runway
+https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 #EXTINF:-1 channel-id="66d82143abec540008bd2b1c-gb" tvg-id="66d82143abec540008bd2b1c" tvg-chno="608" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/66d82143abec540008bd2b1c/colorLogoPNG.png" group-title="United Kingdom",Project Runway
 https://jmp2.uk/plu-66d82143abec540008bd2b1c.m3u8
 #EXTINF:-1 channel-id="681b16158f97d58ff194a3a9-ca" tvg-id="681b16158f97d58ff194a3a9" tvg-chno="470" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/681b16158f97d58ff194a3a9/colorLogoPNG_1746816920521.png" group-title="Canada",Project Runway
@@ -5355,6 +5359,8 @@ https://jmp2.uk/plu-609539fa709d6b0007b19887.m3u8
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 channel-id="64b52ec24ea4800008370651-ca" tvg-id="64b52ec24ea4800008370651" tvg-chno="100" tvg-name="Who's the Boss" tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png" group-title="Canada",Who's the Boss
 https://jmp2.uk/plu-64b52ec24ea4800008370651.m3u8
+#EXTINF:-1 channel-id="686c2677ed17cf4c900a496d-us" tvg-id="686c2677ed17cf4c900a496d" tvg-chno="1487" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/686c2677ed17cf4c900a496d/colorLogoPNG_1755124512679.png" group-title="United States",Wicked Tuna
+https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
 #EXTINF:-1 channel-id="63693fa2bfa0690007ebc880-gb" tvg-id="63693fa2bfa0690007ebc880" tvg-chno="709" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/63693fa2bfa0690007ebc880/colorLogoPNG.png" group-title="United Kingdom",Wicked Tuna
 https://jmp2.uk/plu-63693fa2bfa0690007ebc880.m3u8
 #EXTINF:-1 channel-id="6728c561daad7f000881ac83-ca" tvg-id="6728c561daad7f000881ac83" tvg-chno="465" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/6728c561daad7f000881ac83/colorLogoPNG_1730725745460.png" group-title="Canada",Wicked Tuna
